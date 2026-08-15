@@ -1,7 +1,7 @@
 #include <iostream>
 
 int main() {
-    double temperatura = 26.5;
+    double temperatura = 27;
     std::cout << "Sensor ativo: " << temperatura << " C\n";
     return 0;
 }
